@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Full Stack developer currently working on Data science projects.
 - 📫 How to reach me: khobrekar.shivani@gmail.com
-- ⚡ By 2029, artificial intelligence will rival human capabilities; by 2045, it will revolutionize our civilization a billion-fold.
+- ⚡ AI is a revolution reshaping the future, with machine learning unlocking unparalleled innovation.
 - 🥅 2024 Goals: To be more productive and successful.
 
 <br>
